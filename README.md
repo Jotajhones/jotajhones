@@ -2,24 +2,34 @@
 
 ### Sobre Mim
 
-Sou desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação SENAC-DF, tendo também formação técnica concluída em Desenvolvimento de Sistemas. Meu foco principal de atuação é o ecossistema JavaScript, construindo soluções completas com Node.js e React. No front-end, tenho uma preferência consolidada pela construção de interfaces utilizando CSS puro (Vanilla CSS), o que me garante controle absoluto da estilização e performance da aplicação.
+Sou Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na FATEC SENAC-DF, com formação técnica prévia em Desenvolvimento de Sistemas. Atualmente, estou em um momento de transição e aprofundamento técnico: direcionando minha energia e foco para **frameworks empresariais** e elevando o nível do meu código de um escopo acadêmico para um padrão rigoroso e profissional de mercado.
 
-Além do desenvolvimento voltado a produtos, sou movido pela lógica: gosto de investigar o comportamento interno das linguagens e entender como os algoritmos operam na base. Também dedico parte dos meus estudos à área de segurança da informação, explorando conceitos de segurança ofensiva e testes de vulnerabilidade para garantir a integridade das aplicações web que desenvolvo.
+Minha base foi construída no ecossistema JavaScript (Node.js e React), com forte apreço por entender a lógica e os algoritmos por trás das linguagens. Hoje, dedico meus estudos intensivos ao domínio da **Orientação a Objetos (POO)** e à construção de arquiteturas escaláveis, utilizando **Java com Spring Boot** no back-end e **TypeScript com Angular** no front-end. O objetivo é desenvolver soluções não apenas funcionais, mas seguras, padronizadas e prontas para cenários corporativos de alta demanda.
 
 ---
 
-### Projetos em Destaque
+### Projetos em Destaque e Conquistas
 
-* **[Meu Livrinho](https://github.com/Jotajhones/meulivrinho-web)**
+* **[Meu Livrinho](https://github.com/Jotajhones/meulivrinho-web)** | 🏆 *3º Lugar - SENAC Innova Day 2026*
   Uma plataforma de leitura digital infantil focada em controle parental passivo. O sistema opera como um ecossistema seguro e isolado, utilizando um e-reader nativo desenvolvido em React para otimizar e exibir arquivos em formatos lúdicos e interativos. Back-end e infraestrutura gerenciados com Supabase e Vercel.
+
+* **[Projeto Hackathon Via Appia](https://github.com/Jotajhones/hackathon_viaappia)** 
+  *(Substitua este texto por uma breve descrição técnica de 2 a 3 linhas sobre o problema que você resolveu, seu papel na equipe e as principais ferramentas que utilizou no projeto para o Hackathon da Via Appia. Não esqueça de colocar o link no título).*
 
 * **[Blusas/Blusas](https://github.com/Jotajhones/PI-CursoTecnico)**
   Aplicação de e-commerce voltada para o nicho de cultura nerd e anime. O projeto demonstra a implementação de operações CRUD completas, modelagem relacional de banco de dados e a construção de um sistema de logs de auditoria detalhados para monitoramento das ações no sistema.
 
 ---
 
-### Tecnologias Principais
+### Tecnologias e Ferramentas
 
+**Foco Atual:**
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)](https://angular.io/)
+
+**Fundamentos & Tecnologias Anteriores:**
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org/)
