@@ -13,8 +13,8 @@ Minha base foi construída no ecossistema JavaScript (Node.js e React), com fort
 * **[Meu Livrinho](https://github.com/Jotajhones/meulivrinho-web)** | 🏆 *3º Lugar - SENAC Innova Day 2026*
   Uma plataforma de leitura digital infantil focada em controle parental passivo. O sistema opera como um ecossistema seguro e isolado, utilizando um e-reader nativo desenvolvido em React para otimizar e exibir arquivos em formatos lúdicos e interativos. Back-end e infraestrutura gerenciados com Supabase e Vercel.
 
-* **[Projeto Hackathon Via Appia](https://github.com/Jotajhones/hackathon_viaappia)** 
-  *(Substitua este texto por uma breve descrição técnica de 2 a 3 linhas sobre o problema que você resolveu, seu papel na equipe e as principais ferramentas que utilizou no projeto para o Hackathon da Via Appia. Não esqueça de colocar o link no título).*
+* **[Projeto Hackathon Via Appia](https://github.com/Jotajhones/hackathon_viaappia)**
+  Sistema full-stack projetado para o registro, atualização de status e monitoramento centralizado de incidentes. A plataforma oferece painéis de estatísticas, gerenciamento de comentários nos chamados e controle seguro de acesso via autenticação JWT. A arquitetura completa foi desenvolvida utilizando Angular para a interface modular, Java com Spring Boot para a estruturação da API REST e Docker para a orquestração do ambiente.
 
 * **[Blusas/Blusas](https://github.com/Jotajhones/PI-CursoTecnico)**
   Aplicação de e-commerce voltada para o nicho de cultura nerd e anime. O projeto demonstra a implementação de operações CRUD completas, modelagem relacional de banco de dados e a construção de um sistema de logs de auditoria detalhados para monitoramento das ações no sistema.
