@@ -11,6 +11,7 @@ Minha base foi construída no ecossistema JavaScript (Node.js e React), com fort
 ### Projetos em Destaque e Conquistas
 
 * **[Meu Livrinho](https://github.com/Jotajhones/meulivrinho-web)** | 🏆 *3º Lugar - SENAC Innova Day 2026*
+
   Uma plataforma de leitura digital infantil focada em controle parental passivo. O sistema opera como um ecossistema seguro e isolado, utilizando um e-reader nativo desenvolvido em React para otimizar e exibir arquivos em formatos lúdicos e interativos. Back-end e infraestrutura gerenciados com Supabase e Vercel.
 
 * **[Projeto Hackathon Via Appia](https://github.com/Jotajhones/hackathon_viaappia)** | 🏆 *1º Lugar - Hacathon Via Appia 2026*   
