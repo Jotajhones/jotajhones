@@ -11,13 +11,13 @@ Minha base foi construída no ecossistema JavaScript (Node.js e React), com fort
 ### Projetos em Destaque e Conquistas
 
 - **[Meu Livrinho](https://github.com/Jotajhones/meulivrinho-web)** | 🏆 *3º Lugar - SENAC Innova Day 2026*
-  Uma plataforma de leitura digital infantil focada em controle parental passivo. O sistema opera como um ecossistema seguro e isolado, utilizando um e-reader nativo desenvolvido em React para otimizar e exibir arquivos em formatos lúdicos e interativos. Back-end e infraestrutura gerenciados com Supabase e Vercel.
+  Uma plataforma de leitura digital infantil focada em controle parental passivo. O sistema opera como um ecossistema seguro e isolado, utilizando um e-reader nativo desenvolvido em React para otimizar e exibir arquivos em formatos lúdicos e interativos. Back-end e infraestrutura gerenciados com Supabase e Vercel.
 
-- **[Projeto Hackathon Via Appia](https://github.com/Jotajhones/hackathon_viaappia)** | 🏆 *1º Lugar - Hackathon Via Appia 2026*   
-  Sistema full-stack projetado para o registro, atualização de status e monitoramento centralizado de incidentes. A plataforma oferece painéis de estatísticas, gerenciamento de comentários nos chamados e controle seguro de acesso via autenticação JWT. A arquitetura completa foi desenvolvida utilizando Angular para a interface modular, Java com Spring Boot para a estruturação da API REST e Docker para a orquestração do ambiente.
+- **[Projeto Hackathon Via Appia](https://github.com/Jotajhones/hackathon_viaappia)** | 🏆 *1º Lugar - Hackathon Via Appia 2026*   
+  Sistema full-stack projetado para o registro, atualização de status e monitoramento centralizado de incidentes. A plataforma oferece painéis de estatísticas, gerenciamento de comentários nos chamados e controle seguro de acesso via autenticação JWT. A arquitetura completa foi desenvolvida utilizando Angular para a interface modular, Java com Spring Boot para a estruturação da API REST e Docker para a orquestração do ambiente.
 
 - **[Blusas/Blusas](https://github.com/Jotajhones/PI-CursoTecnico)**
-  Aplicação de e-commerce voltada para o nicho de cultura nerd e anime. O projeto demonstra a implementação de operações CRUD completas, modelagem relacional de banco de dados e a construção de um sistema de logs de auditoria detalhados para monitoramento das ações no sistema.
+  Aplicação de e-commerce voltada para o nicho de cultura nerd e anime. O projeto demonstra a implementação de operações CRUD completas, modelagem relacional de banco de dados e a construção de um sistema de logs de auditoria detalhados para monitoramento das ações no sistema.
 
 ---
 
@@ -47,17 +47,17 @@ Minha base foi construída no ecossistema JavaScript (Node.js e React), com fort
 
   <!-- AWS Academy -->
   <a href="https://raw.githubusercontent.com/Jotajhones/assets/refs/heads/main/badges/aws-academy-graduate-cloud-foundations-training-bad.png" target="_blank">
-    <img src="caminho/para/aws-academy-graduate-cloud-foundations-training-bad.png" width="90" alt="AWS Academy Cloud Foundations" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/Jotajhones/assets/refs/heads/main/badges/aws-academy-graduate-cloud-foundations-training-bad.png" width="90" alt="AWS Academy Cloud Foundations" style="margin-right: 15px;" />
   </a>
 
   <!-- JavaScript Essentials 1 -->
   <a href="https://raw.githubusercontent.com/Jotajhones/assets/refs/heads/main/badges/javascript-essentials-1.png" target="_blank">
-    <img src="caminho/para/javascript-essentials-1.png" width="90" alt="JavaScript Essentials 1" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/Jotajhones/assets/refs/heads/main/badges/javascript-essentials-1.png" width="90" alt="JavaScript Essentials 1" style="margin-right: 15px;" />
   </a>
 
   <!-- JavaScript Essentials 2 -->
   <a href="https://raw.githubusercontent.com/Jotajhones/assets/refs/heads/main/badges/javascript-essentials-2.png" target="_blank">
-    <img src="caminho/para/javascript-essentials-2.png" width="90" alt="JavaScript Essentials 2" />
+    <img src="https://raw.githubusercontent.com/Jotajhones/assets/refs/heads/main/badges/javascript-essentials-2.png" width="90" alt="JavaScript Essentials 2" />
   </a>
 
 </div>
