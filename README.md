@@ -46,17 +46,17 @@ Minha base foi construída no ecossistema JavaScript (Node.js e React), com fort
 <div align="left">
 
   <!-- AWS Academy -->
-  <a href="INSIRA_O_LINK_DO_SEU_CERTIFICADO_AQUI" target="_blank">
+  <a href="badges/aws-academy-graduate-cloud-foundations-training-bad.png" target="_blank">
     <img src="caminho/para/aws-academy-graduate-cloud-foundations-training-bad.png" width="90" alt="AWS Academy Cloud Foundations" style="margin-right: 15px;" />
   </a>
 
   <!-- JavaScript Essentials 1 -->
-  <a href="INSIRA_O_LINK_DO_SEU_CERTIFICADO_AQUI" target="_blank">
+  <a href="badges/javascript-essentials-1.png" target="_blank">
     <img src="caminho/para/javascript-essentials-1.png" width="90" alt="JavaScript Essentials 1" style="margin-right: 15px;" />
   </a>
 
   <!-- JavaScript Essentials 2 -->
-  <a href="INSIRA_O_LINK_DO_SEU_CERTIFICADO_AQUI" target="_blank">
+  <a href="badges/javascript-essentials-2.png" target="_blank">
     <img src="caminho/para/javascript-essentials-2.png" width="90" alt="JavaScript Essentials 2" />
   </a>
 
